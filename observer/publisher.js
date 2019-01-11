@@ -8,6 +8,13 @@ const hasKey = (obj, key) => {
 
 // Observer
 
+class Publiser {
+  constructor() {
+
+  }
+
+}
+
 class Subject {
   constructor() {
     this.dict = {
